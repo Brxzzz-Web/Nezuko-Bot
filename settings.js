@@ -51,8 +51,8 @@ global.yukiJadibts = true
 global.packname = '⪛✰ 𝐘𝐮𝐤𝐢-𝐒𝐮𝐨𝐮-𝐁𝐨𝐭 ✰⪜'
 global.botname = 'ᥡᥙkі sᥙ᥆ᥙ'
 global.wm = '✿◟Yυƙι Sυσυ◞✿'
-global.author = '© mᥲძᥱ ᥕі𝗍һ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
-global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
+global.author = '© 𝚖𝚊𝚍𝚎 𝚠𝚒𝚝𝚑 𝚋𝚢 𝙽𝚎𝚣𝚞𝚔𝚘 𝙾𝚏𝚏'
+global.dev = '© 𝚙𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙽𝚎𝚣𝚞𝚔𝚘 𝙾𝚏𝚏'
 global.textbot = 'Nezuko, Made With ❤ by 𝙉𝙚𝙯𝙪𝙠𝙤 𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡'
 global.etiqueta = '༺⟬Brxzzz⟭༻'
 
