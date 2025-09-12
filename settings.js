@@ -48,9 +48,9 @@ global.yukiJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '⪛✰ 𝐘𝐮𝐤𝐢-𝐒𝐮𝐨𝐮-𝐁𝐨𝐭 ✰⪜'
-global.botname = 'ᥡᥙkі sᥙ᥆ᥙ'
-global.wm = '✿◟Yυƙι Sυσυ◞✿'
+global.packname = 'ᰔᩚ 𝙽𝚎𝚣𝚞𝚔𝚘-𝙱𝚘𝚝 ᰔᩚ'
+global.botname = '𝙽𝚎𝚣𝚞𝚔𝚘-𝙱𝚘𝚝'
+global.wm = '❀ 𝙽𝚎𝚣𝚞𝚔𝚘 𝙺𝚊𝚖𝚊𝚍𝚘 ❀'
 global.author = '© 𝚖𝚊𝚍𝚎 𝚠𝚒𝚝𝚑 𝚋𝚢 𝙽𝚎𝚣𝚞𝚔𝚘 𝙾𝚏𝚏'
 global.dev = '© 𝚙𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙽𝚎𝚣𝚞𝚔𝚘 𝙾𝚏𝚏'
 global.textbot = 'Nezuko, Made With ❤ by 𝙉𝙚𝙯𝙪𝙠𝙤 𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡'
@@ -58,7 +58,7 @@ global.etiqueta = '༺⟬Brxzzz⟭༻'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.moneda = '¥enes'
+global.moneda = '𝙽𝚎𝚣𝚞𝚔𝚌𝚘𝚒𝚗𝚜'
 global.welcom1 = '❍ Edita Con El Comando setwelcome'
 global.welcom2 = '❍ Edita Con El Comando setbye'
 global.banner = 'https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742678744381.jpeg'
