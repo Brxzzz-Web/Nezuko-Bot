@@ -53,8 +53,8 @@ global.botname = 'ᥡᥙkі sᥙ᥆ᥙ'
 global.wm = '✿◟Yυƙι Sυσυ◞✿'
 global.author = '© mᥲძᥱ ᥕі𝗍һ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
 global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
-global.textbot = 'Yuki, mᥲძᥱ ᥕі𝗍һ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ'
-global.etiqueta = 'ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
+global.textbot = 'Nezuko, Made With ❤ by 𝙉𝙚𝙯𝙪𝙠𝙤 𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡'
+global.etiqueta = '༺⟬Brxzzz⟭༻'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
