@@ -68,7 +68,7 @@ global.avatar = 'https://files.catbox.moe/l4l40l.jpg'
 
 global.gp1 = 'https://chat.whatsapp.com/Hh1UhuZNOHx3QWvdMB3NAF?mode=ems_copy_t'
 global.comunidad1 = 'https://chat.whatsapp.com/Hh1UhuZNOHx3QWvdMB3NAF?mode=ems_copy_t'
-global.channel = 'https://whatsapp.com/channel/0029Vb5l5w1CHDyjovjN8s2V''
+global.channel = 'https://whatsapp.com/channel/0029Vb5l5w1CHDyjovjN8s2V'
 global.channel2 = 'https://whatsapp.com/channel/0029Vb5l5w1CHDyjovjN8s2V'
 global.md = 'https://github.com/Drkexe'
 global.correo = 'jxxlznexce@gmail.com'
