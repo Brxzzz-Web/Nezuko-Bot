@@ -66,10 +66,10 @@ global.waittt = '❍ Espera un momento, soy lenta...';
 global.waitttt = '❍ Espera un momento, soy lenta...';
 
 var canal = 'https://whatsapp.com/channel/0029Vb5l5w1CHDyjovjN8s2V'  
-var comunidad = 'https://chat.whatsapp.com/I0dMp2fEle7L6RaWBmwlAa'
-var git = 'https://github.com/The-King-Destroy'
-var github = 'https://github.com/The-King-Destroy/Yuki_Suou-Bot' 
-let correo = 'thekingdestroy507@gmail.com'
+var comunidad = 'https://chat.whatsapp.com/Hh1UhuZNOHx3QWvdMB3NAF'
+var git = 'https://github.com/Drkexe'
+var github = 'https://github.com/Drkexe' 
+let correo = 'jxxlznexce@gmail.com'
 global.redes = [canal, comunidad, git, github, correo].getRandom()
 
 let category = "imagen"
