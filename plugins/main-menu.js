@@ -17,6 +17,7 @@ Aquí tienes la lista de comandos
 │✰ Usuarios » ${totalreg}
 │✧ Comandos » ${totalCommands}
 │🜸 Baileys » Multi Device
+│❖ Channel » https://whatsapp.com/channel/0029Vb5l5w1CHDyjovjN8s2V
 ╰─────────────────
 Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 
