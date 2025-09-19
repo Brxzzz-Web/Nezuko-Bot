@@ -31,9 +31,9 @@ global.sessions = 'Session'
 global.jadi = 'JadiBots'
 global.makiJadibts = true
 
-global.packsticker = `⊹ 🐬 Deymoon🧠 Club\n↳ Deymoon.club/\n\n👹 Info:\n deymoon-club.vercel.app/`
-global.packname = `⊹ 🐬 Deymoon🧠 Club\n↳ Deymoon.club/\n\n👹 Info:\n deymoon-club.vercel.app/`
-global.author = `⊹ 👑Bot:\n⊹ ↳ Tanjiro Kamado\n\n👑 Usuario:\n⊹ ↳ @Desconocido`;
+global.packsticker = `⊹ 🐬 Nezuko🧠 Channel\n↳ Nezuko.channel/\n\n👹 Info:\n nezuko-channel.vercel.app/`
+global.packname = `⊹ 🐬 Nezuko🧠 Channel\n↳ Nezuko.channel/\n\n👹 Info:\n nezuko-channel.vercel.app/`
+global.author = `⊹ 👑Bot:\n⊹ ↳ Nezuko\n\n👑 Usuario:\n⊹ ↳ @Desconocido`;
 global.wm = '⍴᥆ᥕᥱrᥱძ ᑲᥡ ძᥱᥡm᥆᥆ᥒ ᥆𝖿ᥴ';
 global.titulowm = '⏤͟͞ू⃪𝐃𝐞𝐲𝐦𝐨𝐨𝐧 𝐔𝐥𝐭𝐫𝐚 𝐁𝐨𝐭𑁯ᰍ';
 global.igfg = 'Deymoon Club'
