@@ -10,7 +10,7 @@ import moment from 'moment-timezone';
 global.botNumber = '' //𝐍𝐮𝐦𝐞𝐫𝐨 𝐩𝐚𝐫𝐚 𝐁𝐨𝐭
 
 global.owner = [
-  ['18293478038', '𝗖𝗿𝗲𝗮𝗱𝗼𝗿', true],
+  ['51971285104', '𝗖𝗿𝗲𝗮𝗱𝗼𝗿', true],
   ['50672110920']
 ]
 
@@ -20,13 +20,13 @@ global.owner_lid = [
 ]
 
 global.mods = []
-global.suittag = ['5215211111111'] 
+global.suittag = ['51971285104'] 
 global.prems = []
 global.libreria = 'Baileys'
 global.baileys = 'V 6.7.8'
 global.vs = '2.0.0'
 global.languaje = 'Español'
-global.nameqr = '𝐃𝐞𝐲𝐦𝐨𝐨𝐧 𝐔𝐥𝐭𝐫𝐚 𝐁𝐨𝐭'
+global.nameqr = '𝗡𝗲𝘇𝘂𝗸𝗼 𝗨𝗹𝘁𝗿𝗮 𝗕𝗼𝘁'
 global.sessions = 'Session'
 global.jadi = 'JadiBots'
 global.makiJadibts = true
