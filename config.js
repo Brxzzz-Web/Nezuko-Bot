@@ -34,14 +34,14 @@ global.makiJadibts = true
 global.packsticker = `⊹ 🐬 Nezuko🧠 Channel\n↳ Nezuko.channel/\n\n👹 Info:\n nezuko-channel.vercel.app/`
 global.packname = `⊹ 🐬 Nezuko🧠 Channel\n↳ Nezuko.channel/\n\n👹 Info:\n nezuko-channel.vercel.app/`
 global.author = `⊹ 👑Bot:\n⊹ ↳ Nezuko\n\n👑 Usuario:\n⊹ ↳ @Desconocido`;
-global.wm = '⍴᥆ᥕᥱrᥱძ ᑲᥡ ძᥱᥡm᥆᥆ᥒ ᥆𝖿ᥴ';
-global.titulowm = '⏤͟͞ू⃪𝐃𝐞𝐲𝐦𝐨𝐨𝐧 𝐔𝐥𝐭𝐫𝐚 𝐁𝐨𝐭𑁯ᰍ';
-global.igfg = 'Deymoon Club'
-global.botname = '𝐃𝐞𝐲𝐦𝐨𝐨𝐧 𝐁𝐨𝐭 𝐌𝐃'
-global.dev = 'Made With ❤️ by 𝗗𝙚𝙮𝙢𝙤𝙤𝙣 𝗢𝙛𝙘'
-global.textbot = '𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓭 𝓫𝔂 𝗗𝙚𝙮𝙢𝙤𝙤𝙣𝗢𝙛𝙘 ❤️'
-global.gt = '͟͞𝐃𝐞𝐲𝐦𝐨𝐨𝐧';
-global.namechannel = '=͟͟͞𝐃𝐞𝐲𝐦𝐨𝐨𝐧 𝐂𝐥𝐮𝐛 - 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 𝐂𝐡𝐚𝐧𝐧𝐞𝐥⏤͟͟͞͞★'
+global.wm = '𝗉𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 𝗇𝖾𝗓𝗎𝗄𝗈 𝗈𝖿𝗂𝖼𝗂𝖺𝗅';
+global.titulowm = '⏤͟͞ू⃪𝗡𝗲𝘇𝘂𝗸𝗼 𝗨𝗹𝘁𝗿𝗮 𝗕𝗼𝘁𑁯ᰍ';
+global.igfg = '𝖭𝖾𝗓𝗎𝗄𝗈 𝖢𝗁𝖺𝗇𝗇𝖾𝗅'
+global.botname = '𝗡𝗲𝘇𝘂𝗸𝗼 𝗕𝗼𝘁 𝗠𝗗'
+global.dev = 'Made With ❤️ by 𝗡𝗲𝘇𝘂𝗸𝗼 𝗢𝗳𝗶𝗰𝗶𝗮𝗹'
+global.textbot = '𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓭 𝓫𝔂 𝗡𝗲𝘇𝘂𝗸𝗼𝗢𝗳𝗶𝗰𝗶𝗮𝗹 ❤️'
+global.gt = '͟͞𝙽𝚎𝚣𝚞𝚔𝚘';
+global.namechannel = '=͟͟͞𝗡𝗲𝘇𝘂𝗸𝗼 𝗖𝗹𝘂𝗯 - 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 𝗖𝗵𝗮𝗻𝗻𝗲𝗹⏤͟͟͞͞★'
 
 global.moneda = 'Coins'
 
