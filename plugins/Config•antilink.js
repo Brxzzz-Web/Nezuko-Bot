@@ -27,7 +27,7 @@ export async function before(m, { isAdmin, isBotAdmin, conn }) {
     // Acción anti-link
     await conn.reply(
       m.chat,
-      `📎 *¡ANTI LINK ACTIVADO!*\n\n☆ *${await conn.getName(m.sender)}* ha compartido un enlace en el grupo.\n\n*seras eliminado...*`,
+      `❀ *¡ANTI LINK ACTIVADO!*\n\n☆ *${await conn.getName(m.sender)}* ha compartido un enlace en el grupo.\n\n*seras eliminado...*`,
       m, fake
     )
 
