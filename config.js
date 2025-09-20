@@ -47,9 +47,9 @@ global.moneda = 'Coins'
 
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺  𝑫𝑬𝒀𝑴𝑶𝑶𝑵 𝑪𝑳𝑼𝑩◞ • 🌪️
 
-global.gp4 = 'https://chat.whatsapp.com/ETZduk7trjG9xgTXVCRHYK?mode=ac_t' //Grupo Oficial De𝐥 𝐂𝐥𝐮𝐛
-global.gp1 = 'https://chat.whatsapp.com/CnPz48hwCLnCPkLk94KCJA?mode=ems_copy_c' //Grupo 𝐃𝐞𝐲𝐦𝐨𝐨𝐧 𝐓𝐚𝐥𝐤𝐬
-global.gp2 = 'https://chat.whatsapp.com/EUq0KSaqVDAG1NOakOuzzI?mode=ac_t'//
+global.gp4 = 'https://chat.whatsapp.com/KdpLokuBZuKHx0DvNzuAes' //Grupo Oficial De𝐥 𝐂𝐥𝐮𝐛
+global.gp1 = 'https://chat.whatsapp.com/KdpLokuBZuKHx0DvNzuAes' //Grupo 𝐃𝐞𝐲𝐦𝐨𝐨𝐧 𝐓𝐚𝐥𝐤𝐬
+global.gp2 = 'https://chat.whatsapp.com/KdpLokuBZuKHx0DvNzuAes'//
 global.channel = 'https://whatsapp.com/channel/0029Vb5nxWWFHWq5CNFP5b21' //Canal Oficial 𝐃𝐞𝐥 𝐂𝐥𝐮𝐛
 global.channel2 = 'https://whatsapp.com/channel/0029VbAa5sNCsU9Hlzsn651S' //Canal 𝐃𝐞𝐥 𝐇𝐨𝐬𝐭 𝐨𝐟𝐢𝐜𝐢𝐚𝐥
 global.yt = 'https://dash.kurayamihost.dpdns.org/home' //𝐃𝐚𝐬𝐡 𝐃𝐞𝐥 𝐇𝐨𝐬𝐭
