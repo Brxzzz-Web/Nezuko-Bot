@@ -11,7 +11,7 @@ export async function before(m, { isAdmin, isBotAdmin, conn }) {
 
   if (!chat.antiLink || !m.text || !isGroupLink) return !0
   if (isAdmin && m.text.includes(grupo)) {
-    return conn.reply(m.chat, `☆ *Enlace detect, eres admin, seras perdonado.*`, m, fake)
+    return conn.reply(m.chat, `☆ *Enlace detect, eres admin, serás perdonado.*`, m, fake)
   }
 
   if (!isAdmin) {
