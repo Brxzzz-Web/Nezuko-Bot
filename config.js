@@ -54,7 +54,7 @@ global.channel = 'https://whatsapp.com/channel/0029Vb5l5w1CHDyjovjN8s2V' //Canal
 global.channel2 = 'https://whatsapp.com/channel/0029Vb5l5w1CHDyjovjN8s2V' //Canal 𝐃𝐞𝐥 𝐇𝐨𝐬𝐭 𝐨𝐟𝐢𝐜𝐢𝐚𝐥
 global.yt = 'https://dash.kurayamihost.dpdns.org/home' //𝐃𝐚𝐬𝐡 𝐃𝐞𝐥 𝐇𝐨𝐬𝐭
 global.md = 'https://github.com/FELIX-OFC/MakiMD' //Github Oficial
-global.correo = 'deymoon-club.vercel.app/'
+global.correo = 'v0-nezuko-channel.vercel.app/'
 global.cn ='https://whatsapp.com/channel/0029Vb5l5w1CHDyjovjN8s2V';
 
 global.catalogo = fs.readFileSync('./src/catalogo.jpg');
