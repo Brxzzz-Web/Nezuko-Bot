@@ -524,7 +524,7 @@ Mira la información junto al ID de un grupo.
         mentionedJid: [m.sender],
         externalAdReply: {
           title: devby,
-          sourceUrl: 'https://Deymoon.club//',
+          sourceUrl: 'https://Nezuko.club//',
           mediaType: 1,
           renderLargerThumbnail: true,
           thumbnailUrl: bannerFinal
