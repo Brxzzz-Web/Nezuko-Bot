@@ -51,7 +51,7 @@ let handler = async function (m, { conn, text, args, usedPrefix, command }) {
         text: regbot,
         contextInfo: {
             externalAdReply: {
-                title: 'Nezuko Oficial te desea un lindo día 🌸',
+                title: 'Nezuko Oficial te desea un lindo dia ᰔᩚ',
                 thumbnailUrl: 'https://files.catbox.moe/3zb86a.jpg',
                 mediaType: 1,
                 renderLargerThumbnail: true
@@ -81,13 +81,13 @@ let chtxt = `👤 *𝖴𝗌uario* » ${m.pushName || 'Anónimo'}
 🩵 *𝖨𝖣 𝖽𝖾 𝗋𝖾𝗀𝗂𝗌𝗍𝗋𝗈* »
 ⤷ ${sn}`;
 
-    let channelID = '120363402362088282@newsletter';
+    let channelID = '120363401983007420@newsletter';
         await conn.sendMessage(channelID, {
         text: chtxt,
         contextInfo: {
             externalAdReply: {
-                title: "【 🩵 𝐍𝐔𝐄𝐕𝐎 𝐑𝐄𝐆𝐈𝐒𝐓𝐑𝐎 🩵 】",
-                body: '𝚁𝚎𝚐𝚒𝚜𝚝𝚛𝚘𝚜 𝙼𝚊𝚔𝚒𝚖𝚊 2.0 𝙱𝚘𝚝',
+                title: "【 ❀ 𝐍𝐔𝐄𝐕𝐎 𝐑𝐄𝐆𝐈𝐒𝐓𝐑𝐎 ❀ 】",
+                body: '𝚁𝚎𝚐𝚒𝚜𝚝𝚛𝚘𝚜 𝙽𝚎𝚣𝚞𝚔𝚘 𝚘𝚏𝚒𝚌𝚒𝚊𝚕 𝙱𝚘𝚝',
                 thumbnailUrl: perfil,
                 sourceUrl: redes,
                 mediaType: 1,
