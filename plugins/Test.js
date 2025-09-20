@@ -76,7 +76,7 @@ const pinterest = async (m, { conn, text, usedPrefix, command }) => {
     } catch (error) {
         console.error(error);
         await m.react('❌');
-        conn.reply(m.chat, '⚠️ Hubo un error al obtener las imágenes de Pinterest.', m);
+        conn.reply(m.chat, '✘ Hubo un error al obtener las imágenes de Pinterest.', m);
     }
 };
 
