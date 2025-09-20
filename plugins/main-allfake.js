@@ -64,8 +64,8 @@ global.emojis = [emoji, emoji2, emoji3, emoji4].getRandom()
 
 
 //Enlaces
-var canal = 'https://whatsapp.com/channel/0029Vb5nxWWFHWq5CNFP5b21'  
-let canal2 = 'https://whatsapp.com/channel/0029VbAa5sNCsU9Hlzsn651S'
+var canal = 'https://chat.whatsapp.com/KdpLokuBZuKHx0DvNzuAes'  
+let canal2 = 'https://whatsapp.com/channel/0029Vb5l5w1CHDyjovjN8s2V'
 var git = 'https://github.com/FELIX-OFC/MakiMD' 
 var youtube = 'https://dash.kurayamihost.dpdns.org/home' 
 var github = 'https://github.com/FELIX-OFC/MakiMD' 
