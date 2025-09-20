@@ -51,7 +51,7 @@ let handler = async function (m, { conn, text, args, usedPrefix, command }) {
         text: regbot,
         contextInfo: {
             externalAdReply: {
-                title: 'Nezuko Oficial te desea una linda bienvenida ᰔᩚ',
+                title: 'Nezuko Oficial te desea una lindo dia ᰔᩚ',
                 thumbnailUrl: 'https://files.catbox.moe/3zb86a.jpg',
                 mediaType: 1,
                 renderLargerThumbnail: true
