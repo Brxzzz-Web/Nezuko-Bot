@@ -32,14 +32,14 @@ global.creador = 'Wa.me/18293142989'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
 global.asistencia = 'Wa.me/51971285104'
 global.namechannel = '=͟͟͞𝗡𝗲𝘇𝘂𝗸𝗼 𝗖𝗹𝘂𝗯 - 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 𝗖𝗵𝗮𝗻𝗻𝗲𝗹⏤͟͟͞͞★'
-global.namegrupo = '⏤͟͞ू⃪  ̸̷͢𝐌𝐚𝐤𝐢𝐦𝐚 ☦︎ 𝐆𝐫𝐮𝐩𝐨𑁯ᰍ'
-global.namecomu = 'Deymoon Club'
+global.namegrupo = '𝙉𝙚𝙯𝙪𝙠𝙤 𝙜𝙧𝙪𝙥𝙤 𝙤𝙛𝙛𝙞𝙘𝙞𝙖𝙡 ⏤͟͟͞͞❀'
+global.namecomu = 'Nezuko Club'
 global.listo = '☆ *Aquí tienes ᕕ( ᐛ )ᕗ*'
 
 //Ids channel
-global.idchannel = '120363403950112178@newsletter'
-global.canalIdM = ["120363403950112178@newsletter", "120363403950112178@newsletter"]
-global.canalNombreM = ["=͟͟͞𝐃𝐞𝐲𝐦𝐨𝐨𝐧 𝐂𝐥𝐮𝐛 - 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 𝐂𝐡𝐚𝐧𝐧𝐞𝐥⏤͟͟͞͞★", "=͟͟͞𝐃𝐞𝐲𝐦𝐨𝐨𝐧 𝐂𝐥𝐮𝐛 - 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 𝐂𝐡𝐚𝐧𝐧𝐞𝐥⏤͟͟͞͞★"]
+global.idchannel = '120363401983007420@newsletter'
+global.canalIdM = ["120363401983007420@newsletter", "120363403950112178@newsletter"]
+global.canalNombreM = ["=͟͟͞𝗡𝗲𝘇𝘂𝗸𝗼 𝗖𝗹𝘂𝗯 - 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 𝗖𝗵𝗮𝗻𝗻𝗲𝗹⏤͟͟͞͞★", "=͟͟͞𝗡𝗲𝘇𝘂𝗸𝗼 𝗖𝗹𝘂𝗯 - 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 𝗖𝗵𝗮𝗻𝗻𝗲𝗹⏤͟͟͞͞★"]
 global.channelRD = await getRandomChannel()
 
 global.d = new Date(new Date + 3600000)
