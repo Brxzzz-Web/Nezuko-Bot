@@ -30,8 +30,8 @@ console.log(`Error : ${e}`)
 //creador y otros
 global.creador = 'Wa.me/18293142989'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
-global.asistencia = 'Wa.me/50672110920'
-global.namechannel = '⏤͟͞ू⃪  ̸̷͢𝐌𝐚𝐤𝐢𝐦𝐚 ☦︎ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥𑁯ᰍ'
+global.asistencia = 'Wa.me/51971285104'
+global.namechannel = '=͟͟͞𝗡𝗲𝘇𝘂𝗸𝗼 𝗖𝗹𝘂𝗯 - 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 𝗖𝗵𝗮𝗻𝗻𝗲𝗹⏤͟͟͞͞★'
 global.namegrupo = '⏤͟͞ू⃪  ̸̷͢𝐌𝐚𝐤𝐢𝐦𝐚 ☦︎ 𝐆𝐫𝐮𝐩𝐨𑁯ᰍ'
 global.namecomu = 'Deymoon Club'
 global.listo = '☆ *Aquí tienes ᕕ( ᐛ )ᕗ*'
