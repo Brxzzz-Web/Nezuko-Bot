@@ -41,10 +41,10 @@ async function sendAlbumMessage(jid, medias, options = {}) {
 }
 
 const pinterest = async (m, { conn, text, usedPrefix, command }) => {
-    if (!text) return conn.reply(m.chat, `*💎 Formato incorrecto. Uso Correcto: ${usedPrefix + command} Makima y denji*`, m);
+    if (!text) return conn.reply(m.chat, `*✐ Formato incorrecto. Uso Correcto: ${usedPrefix + command} Makima y denji*`, m);
 
     await m.react('🕐');
-    conn.reply(m.chat, '💎 *Descargando imágenes de Pinterest...*', m, fake, {
+    conn.reply(m.chat, '❐ *Descargando imágenes de Pinterest...*', m, fake, {
         contextInfo: {
             externalAdReply: {
                 mediaUrl: null,
@@ -64,12 +64,12 @@ const pinterest = async (m, { conn, text, usedPrefix, command }) => {
         const data = await res.json();
 
         if (!Array.isArray(data) || data.length < 2) {
-            return conn.reply(m.chat, '❌ No se encontraron suficientes imágenes para un álbum.', m);
+            return conn.reply(m.chat, '✘ No se encontraron suficientes imágenes para un álbum.', m);
         }
 
         const images = data.slice(0, 10).map(img => ({ type: "image", data: { url: img.image_large_url } }));
 
-        const caption = `💎 𝗥𝗲𝘀𝘂𝗹𝘁𝗮𝗱𝗼𝘀 𝗱𝗲: ${text}`;
+        const caption = `❀ 𝗥𝗲𝘀𝘂𝗹𝘁𝗮𝗱𝗼𝘀 𝗱𝗲: ${text}`;
         await sendAlbumMessage(m.chat, images, { caption, quoted: m });
 
         await m.react('✅');
