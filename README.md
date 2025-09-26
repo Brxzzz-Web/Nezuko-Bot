@@ -140,5 +140,5 @@ cd && cd YukiBot-MD && nano settings.js
 ---
 ### **`ᥫ᭡ Propietario`**
 <a
-href="https://github.com/The-King-Destroy"><img src="https://github.com/The-King-Destroy.png" width="130" height="130" alt="
+href="https://github.com/The-King-Destroy"><img src="https://files.catbox.moe/opqzdw.jpg" width="130" height="130" alt="
 ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜"/></a>
