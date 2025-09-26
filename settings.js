@@ -43,13 +43,13 @@ global.catalogo = fs.readFileSync('./lib/catalogo.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.group = "https://chat.whatsapp.com/HaKf6ezcwdbGzmH782eBal"
-global.community = "https://chat.whatsapp.com/G0kXqsteJFU74yrLtg79o6"
-global.channel = "https://whatsapp.com/channel/0029Vb64nWqLo4hb8cuxe23n"
-global.github = "https://github.com/The-King-Destroy/YukiBot-MD"
-global.gmail = "thekingdestroy507@gmail.com"
+global.group = "https://chat.whatsapp.com/KdpLokuBZuKHx0DvNzuAes"
+global.community = "https://chat.whatsapp.com/KdpLokuBZuKHx0DvNzuAes"
+global.channel = "https://whatsapp.com/channel/0029Vb5l5w1CHDyjovjN8s2V"
+global.github = "https://github.com/Drkexe"
+global.gmail = "jxxlznexe@gmail.com"
 global.ch = {
-ch1: "120363401404146384@newsletter"
+ch1: "120363401983007420@newsletter"
 }
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
