@@ -1,6 +1,6 @@
 <h1 align="center">❀ 𝙽𝚎𝚣𝚞𝚔𝚘 𝙺𝚊𝚖𝚊𝚍𝚘 ❀</h1>
 
-<img src= "https://files.catbox.moe/om9jai.jpg">
+<img src= "https://files.catbox.moe/3rrwjb.jpg">
 </p>
 
 ### *`❕️ Información importante`*
