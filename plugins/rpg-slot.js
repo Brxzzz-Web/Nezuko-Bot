@@ -40,7 +40,7 @@ await animateSlots()
 const { x, y, z } = getRandomEmojis()
 let resultado
 if (x[0] === y[0] && y[0] === z[0]) {
-resultado = `❀ Ganaste! *¥${(apuesta * 2).toLocaleString()} ${currency}*.`
+resultado = `❀ Ganaste! *N${(apuesta * 2).toLocaleString()} ${currency}*.`
 users.coin += apuesta
 } else if (x[0] === y[0] || x[0] === z[0] || y[0] === z[0]) {
 resultado = `❀ Casi lo logras. *Toma ¥10 ${currency}* por intentarlo.`
