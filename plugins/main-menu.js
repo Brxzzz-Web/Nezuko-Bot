@@ -82,16 +82,16 @@ let txt = `̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮  
 > ❍ Descargar un video de Facebook.
 ❀ *#twitter • #x* + [Link]
 > ❍ Descargar un video de Twitter/X.
-✦ *#ig • #instagram* + [Link]
-> ⸙ Descargar un reel de Instagram.
-✦ *#pinterest • #pin* + [busqueda] / [Link]
-> ⸙ Buscar y descargar imagenes de Pinterest.
-✦ *#image • #imagen* + [busqueda]
-> ⸙ Buscar y descargar imagenes de Google.
-✦ *#apk • #modapk* + [busqueda]
-> ⸙ Descargar un apk de Aptoide.
-✦ *#ytsearch • #search* + [busqueda]
-> ⸙ Buscar videos de YouTube.
+❀ *#ig • #instagram* + [Link]
+> ❍ Descargar un reel de Instagram.
+❀ *#pinterest • #pin* + [busqueda] / [Link]
+> ❍ Buscar y descargar imagenes de Pinterest.
+❀ *#image • #imagen* + [busqueda]
+> ❍ Buscar y descargar imagenes de Google.
+❀ *#apk • #modapk* + [busqueda]
+> ❍ Descargar un apk de Aptoide.
+❀ *#ytsearch • #search* + [busqueda]
+> ❍ Buscar videos de YouTube.
 ╰ׅ͜─֟͜─͜─ٞ͜─͜─๊͜─͜─๋͜─⃔═̶፝֟͜═̶⃔─๋͜─͜─͜─๊͜─ٞ͜─͜─֟͜┈ࠢ͜╯ׅ
 
 ╭┈ࠢ͜─ׄ֟፝͜─ׄ͜─ׄ͜╴𐔌 *GACHA* 𐦯╶͜─ׄ͜─ׄ֟፝͜─ׄ͜─ׄ͜
