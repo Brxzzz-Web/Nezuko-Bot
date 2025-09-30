@@ -144,26 +144,26 @@ let txt = `̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮  
 
 ╭┈ࠢ͜─ׄ֟፝͜─ׄ͜─ׄ͜╴𐔌 *SOCKETS* 𐦯╶͜─ׄ͜─ׄ֟፝͜─ׄ͜─ׄ͜
 > ✿ Comandos para registrar tu propio Bot.
-✦ *#qr • #code*
-> ⸙ Crear un Sub-Bot con un codigo QR/Code
-✦ *#bots • #botlist*
-> ⸙ Ver el numero de bots activos.
-✦ *#status • #estado*
-> ⸙ Ver estado del bot.
-✦ *#p • #ping*
-> ⸙ Medir tiempo de respuesta.
-✦ *#join* + [Invitacion]
-> ⸙ Unir al bot a un grupo.
-✦ *#leave • #salir*
-> ⸙ Salir de un grupo.
-✦ *#logout*
-> ⸙ Cerrar sesion del bot.
-✦ *#setpfp • #setimage*
-> ⸙ Cambiar la imagen de perfil
-✦ *#setstatus* + [estado]
-> ⸙ Cambiar el estado del bot
-✦ *#setusername* + [nombre]
-> ⸙ Cambiar el nombre de usuario
+❀ *#qr • #code*
+> ❍ Crear un Sub-Bot con un codigo QR/Code
+❀ *#bots • #botlist*
+> ❍ Ver el numero de bots activos.
+❀ *#status • #estado*
+> ❍ Ver estado del bot.
+❀ *#p • #ping*
+> ❍ Medir tiempo de respuesta.
+❀ *#join* + [Invitacion]
+> ❍ Unir al bot a un grupo.
+❀ *#leave • #salir*
+> ❍ Salir de un grupo.
+❀ *#logout*
+> ❍ Cerrar sesion del bot.
+❀ *#setpfp • #setimage*
+> ❍ Cambiar la imagen de perfil
+❀ *#setstatus* + [estado]
+> ❍ Cambiar el estado del bot
+❀ *#setusername* + [nombre]
+> ❍ Cambiar el nombre de usuario
 ╰ׅ͜─֟͜─͜─ٞ͜─͜─๊͜─͜─๋͜─⃔═̶፝֟͜═̶⃔─๋͜─͜─͜─๊͜─ٞ͜─͜─֟͜┈ࠢ͜╯ׅ
 
 ╭┈ࠢ͜─ׄ֟፝͜─ׄ͜─ׄ͜╴𐔌 *UTILITIES* 𐦯╶͜─ׄ͜─ׄ֟፝͜─ׄ͜─ׄ͜
