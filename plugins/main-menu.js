@@ -56,32 +56,32 @@ let txt = `̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮  
 > ❍ Intentar robar coins a un usuario.
 ❀ *#economyboard • #eboard • #baltop* + <pagina>
 > ❍ Ver tu información de economía en el grupo.
-✦ *#aventura • #adventure*
-> ⸙ Aventuras para ganar coins y exp.
-✦ *#curar • #heal*
-> ⸙ Curar salud para salir de aventuras.
-✦ *#cazar • #hunt*
-> ⸙ cazar animales para ganar coins y exp.
-✦ *#fish • #pescar*
-> ⸙ Ganar coins y exp pescando.
-✦ *#mazmorra • #dungeon*
-> ⸙ Explorar mazmorras para ganar coins y exp.
+❀ *#aventura • #adventure*
+> ❍ Aventuras para ganar coins y exp.
+❀ *#curar • #heal*
+> ❍ Curar salud para salir de aventuras.
+❀ *#cazar • #hunt*
+> ❍ cazar animales para ganar coins y exp.
+❀ *#fish • #pescar*
+> ❍ Ganar coins y exp pescando.
+❀ *#mazmorra • #dungeon*
+> ❍ Explorar mazmorras para ganar coins y exp.
 ╰ׅ͜─֟͜─͜─ٞ͜─͜─๊͜─͜─๋͜─⃔═̶፝֟͜═̶⃔─๋͜─͜─͜─๊͜─ٞ͜─͜─֟͜┈ࠢ͜╯ׅ
 
 ╭┈ࠢ͜─ׄ֟፝͜─ׄ͜─ׄ͜╴𐔌 *DOWNLOAD* 𐦯╶͜─ׄ͜─ׄ֟፝͜─ׄ͜─ׄ͜
 > ✿ Comandos de *Descargas* para descargar archivos de varias fuentes.
-✦ *#tiktok • #tt* + [Link] / [busqueda]
-> ⸙ Descargar un video de TikTok.
-✦ *#mediafire • #mf* + [Link]
-> ⸙ Descargar un archivo de MediaFire.
-✦ *#mega • #mg* + [Link]
-> ⸙ Descargar un archivo de MEGA.
-✦ *#play • #play2 • #ytmp3 • #ytmp4* + [Cancion] / [Link]
-> ⸙ Descargar una cancion o vídeo de YouTube.
-✦ *#facebook • #fb* + [Link]
-> ⸙ Descargar un video de Facebook.
-✦ *#twitter • #x* + [Link]
-> ⸙ Descargar un video de Twitter/X.
+❀ *#tiktok • #tt* + [Link] / [busqueda]
+> ❍ Descargar un video de TikTok.
+❀ *#mediafire • #mf* + [Link]
+> ❍ Descargar un archivo de MediaFire.
+❀ *#mega • #mg* + [Link]
+> ❍ Descargar un archivo de MEGA.
+❀ *#play • #play2 • #ytmp3 • #ytmp4* + [Cancion] / [Link]
+> ❍ Descargar una cancion o vídeo de YouTube.
+❀ *#facebook • #fb* + [Link]
+> ❍ Descargar un video de Facebook.
+❀ *#twitter • #x* + [Link]
+> ❍ Descargar un video de Twitter/X.
 ✦ *#ig • #instagram* + [Link]
 > ⸙ Descargar un reel de Instagram.
 ✦ *#pinterest • #pin* + [busqueda] / [Link]
