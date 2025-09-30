@@ -168,54 +168,54 @@ let txt = `̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮  
 
 ╭┈ࠢ͜─ׄ֟፝͜─ׄ͜─ׄ͜╴𐔌 *UTILITIES* 𐦯╶͜─ׄ͜─ׄ֟፝͜─ׄ͜─ׄ͜
 > ✿ Comandos de *Útilidades*.
-✦ *#help • #menu*
-> ⸙ Ver el menú de comandos.
-✦ *#sc • #script*
-> ⸙ Link del repositorio oficial del Bot.
-✦ *#sug • #suggest*
-> ⸙ Sugerir nuevas funciones al desarrollador.
-✦ *#reporte • #reportar*
-> ⸙ Reportar fallas o problemas del bot.
-✦ *#calcular • #cal*
-> ⸙ Calcular tipos de ecuaciones.
-✦ *#delmeta*
-> ⸙ Restablecer el pack y autor por defecto para tus stickers.
-✦ *#getpic • #pfp* + [@usuario]
-> ⸙ Ver la foto de perfil de un usuario.
-✦ *#say* + [texto]
-> ⸙ Repetir un mensaje
-✦ *#setmeta* + [autor] | [pack]
-> ⸙ Establecer el pack y autor por defecto para tus stickers.
-✦ *#sticker • #s • #wm* + {citar una imagen/video}
-> ⸙ Convertir una imagen/video a sticker
-✦ *#toimg • #img* + {citar sticker}
-> ⸙ Convertir un sticker/imagen de una vista a imagen.
-✦ *#brat • #bratv • #qc • #emojimix*︎ 
-> ⸙ Crear stickers con texto.
-✦ *#gitclone* + [Link]
-> ⸙ Descargar un repositorio de Github.
-✦ *#enhance • #remini • #hd*
-> ⸙ Mejorar calidad de una imagen.
-✦ *#letra • #style* 
-> ⸙ Cambia la fuente de las letras.
-✦ *#read • #readviewonce*
-> ⸙ Ver imágenes viewonce.
-✦ *#ss • #ssweb*
-> ⸙ Ver el estado de una página web.
-✦ *#translate • #traducir • #trad*
-> ⸙ Traducir palabras en otros idiomas.
-✦ *#ia • #gemini*
-> ⸙ Preguntar a Chatgpt.
-✦ *#tourl • #catbox*
-> ⸙ Convertidor de imágen/video en urls.
-✦ *#wiki • #wikipedia*
-> ⸙ Investigar temas a través de Wikipedia.
-✦ *#dalle • #flux*
-> ⸙ Crear imágenes con texto mediante IA.
-✦ *#npmdl • #nmpjs*
-> ⸙ Descargar paquetes de NPMJS.
-✦ *#google*
-> ⸙ Realizar búsquedas por Google.
+❀ *#help • #menu*
+> ❍ Ver el menú de comandos.
+❀ *#sc • #script*
+> ❍ Link del repositorio oficial del Bot.
+❀ *#sug • #suggest*
+> ❍ Sugerir nuevas funciones al desarrollador.
+❀ *#reporte • #reportar*
+> ❍ Reportar fallas o problemas del bot.
+❀ *#calcular • #cal*
+> ❍ Calcular tipos de ecuaciones.
+❀ *#delmeta*
+> ❍ Restablecer el pack y autor por defecto para tus stickers.
+❀ *#getpic • #pfp* + [@usuario]
+> ❍ Ver la foto de perfil de un usuario.
+❀ *#say* + [texto]
+> ❍ Repetir un mensaje
+❀ *#setmeta* + [autor] | [pack]
+> ❍ Establecer el pack y autor por defecto para tus stickers.
+❀ *#sticker • #s • #wm* + {citar una imagen/video}
+> ❍ Convertir una imagen/video a sticker
+❀ *#toimg • #img* + {citar sticker}
+> ❍ Convertir un sticker/imagen de una vista a imagen.
+❀ *#brat • #bratv • #qc • #emojimix*︎ 
+> ❍ Crear stickers con texto.
+❀ *#gitclone* + [Link]
+> ❍ Descargar un repositorio de Github.
+❀ *#enhance • #remini • #hd*
+> ❍ Mejorar calidad de una imagen.
+❀ *#letra • #style* 
+> ❍ Cambia la fuente de las letras.
+❀ *#read • #readviewonce*
+> ❍ Ver imágenes viewonce.
+❀ *#ss • #ssweb*
+> ❍ Ver el estado de una página web.
+❀ *#translate • #traducir • #trad*
+> ❍ Traducir palabras en otros idiomas.
+❀ *#ia • #gemini*
+> ❍ Preguntar a Chatgpt.
+❀ *#tourl • #catbox*
+> ❍ Convertidor de imágen/video en urls.
+❀ *#wiki • #wikipedia*
+> ❍ Investigar temas a través de Wikipedia.
+❀ *#dalle • #flux*
+> ❍ Crear imágenes con texto mediante IA.
+❀ *#npmdl • #nmpjs*
+> ❍ Descargar paquetes de NPMJS.
+❀ *#google*
+> ❍ Realizar búsquedas por Google.
 ╰ׅ͜─֟͜─͜─ٞ͜─͜─๊͜─͜─๋͜─⃔═̶፝֟͜═̶⃔─๋͜─͜─͜─๊͜─ٞ͜─͜─֟͜┈ࠢ͜╯ׅ
 
 ╭┈ࠢ͜─ׄ֟፝͜─ׄ͜─ׄ͜╴𐔌 *PROFILES* 𐦯╶͜─ׄ͜─ׄ֟፝͜─ׄ͜─ׄ͜
