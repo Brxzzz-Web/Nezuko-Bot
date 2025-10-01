@@ -170,8 +170,6 @@ let txt = `̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮  
 > ✿ Comandos de *Útilidades*.
 ❀ *#help • #menu*
 > ❍ Ver el menú de comandos.
-❀ *#sc • #script*
-> ❍ Link del repositorio oficial del Bot.
 ❀ *#sug • #suggest*
 > ❍ Sugerir nuevas funciones al desarrollador.
 ❀ *#reporte • #reportar*
