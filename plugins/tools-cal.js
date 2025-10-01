@@ -19,7 +19,7 @@ await m.reply(`❀ Ejercicio: *${format}* = _${result}_`)
 await m.react('✔️')
 } catch (e) {
 await m.react('✖️')
-return m.reply(`ꕥ Formato incorrecto, solo 0-9 y símbolo -, +, *, /, ×, ÷, π, e, (, ) que puedes usar.`)
+return m.reply(`❀ Formato incorrecto, solo 0-9 y símbolo -, +, *, /, ×, ÷, π, e, (, ) que puedes usar.`)
 }}
 
 handler.help = ['cal']
