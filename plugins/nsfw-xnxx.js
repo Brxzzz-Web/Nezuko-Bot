@@ -4,7 +4,7 @@ import cheerio from 'cheerio'
 
 const handler = async (m, { text, conn, usedPrefix }) => {
 if (!db.data.chats[m.chat].nsfw && m.isGroup) {
-return m.reply(`ꕥ El contenido *NSFW* está desactivado en este grupo.\n\nUn *administrador* puede activarlo con el comando:\n» *${usedPrefix}nsfw on*`)
+return m.reply(`❀ El contenido *NSFW* está desactivado en este grupo.\n\nUn *administrador* puede activarlo con el comando:\n» *${usedPrefix}nsfw on*`)
 }
 if (!text) {
 return m.reply('❀ Por favor, ingresa el título o URL del video de *(xnxx)*.')
@@ -33,7 +33,7 @@ return
 }
 const res = await search(encodeURIComponent(text))
 await m.react('🕒')
-if (!res.result?.length) return m.reply('ꕥ No se encontraron resultados.')
+if (!res.result?.length) return m.reply('❀ No se encontraron resultados.')
 await m.react('✔️')
 const list = res.result.slice(0, 10).map((v, i) => `*${i + 1}*\n≡ Título : *${v.title}*\n≡ Link : ${v.link}`).join('\n\n')
 const caption = `*乂 ¡XNXX - SEARCH! 乂*
