@@ -13,7 +13,7 @@ const ahora = Date.now()
 if (user.lastApuesta && ahora - user.lastApuesta < tiempoEspera) {
 const restante = user.lastApuesta + tiempoEspera - ahora
 const tiempoRestante = formatTime(restante)
-return conn.reply(m.chat, `ꕥ Debes esperar *${tiempoRestante}* para usar *${usedPrefix + command}* nuevamente.`, m)
+return conn.reply(m.chat, `❀ Debes esperar *${tiempoRestante}* para usar *${usedPrefix + command}* nuevamente.`, m)
 }
 user.lastApuesta = ahora
 count = count ? /all/i.test(count) ? Math.floor(global.db.data.users[m.sender].limit / buatall) : parseInt(count) : args[0] ? parseInt(args[0]) : 1
@@ -40,7 +40,7 @@ const replyMsg = `❀ \`Veamos qué números tienen!\`\n\n➠ *${botname}* : ${A
 resultado
 conn.reply(m.chat, replyMsg.trim(), m)
 } else {
-conn.reply(m.chat, `ꕥ No tienes *¥${formatNumber(count)} ${currency}* para apostar!`, m)
+conn.reply(m.chat, `❀ No tienes *¥${formatNumber(count)} ${currency}* para apostar!`, m)
 }}
 
 handler.help = ['apostar']
