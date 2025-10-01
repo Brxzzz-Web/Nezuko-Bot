@@ -17,7 +17,7 @@ const cooldown = 15 * 60 * 1000
 const now = Date.now()
 if (now < user.lastHunt) {
 const restante = user.lastHunt - now
-return conn.reply(m.chat, `ꕥ Debes esperar *${formatTime(restante)}* para usar *${usedPrefix + command}* de nuevo.`, m)
+return conn.reply(m.chat, `❀ Debes esperar *${formatTime(restante)}* para usar *${usedPrefix + command}* de nuevo.`, m)
 }
 user.lastHunt = now + cooldown
 const evento = pickRandom(eventos)
