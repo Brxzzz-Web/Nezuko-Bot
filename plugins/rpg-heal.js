@@ -5,7 +5,7 @@ return m.reply(`《✦》Los comandos de *Economía* están desactivados en este
 let user = global.db.data.users[m.sender]
 if (!user) return conn.reply(m.chat, `ꕥ El usuario no se encuentra en la base de Datos.`, m)
 if (user.health >= 100) return conn.reply(m.chat, `❀ Tu salud ya está al máximo.`, m)
-if (user.coin <= 0) return conn.reply(m.chat, `ꕥ No tienes ${currency} suficientes para curarte.`, m)
+if (user.coin <= 0) return conn.reply(m.chat, `❀ No tienes ${currency} suficientes para curarte.`, m)
 const faltante = 100 - user.health
 const disponible = Math.floor(user.coin / 50)
 const curable = Math.min(faltante, disponible)
