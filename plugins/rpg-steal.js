@@ -12,7 +12,7 @@ let mentionedJid = await m.mentionedJid
 let who = mentionedJid && mentionedJid.length ? mentionedJid[0] : m.quoted && await m.quoted.sender ? await m.quoted.sender : null
 if (!who) return conn.reply(m.chat, `❀ Debes mencionar a alguien para intentar robarle.`, m)
 if (!(who in global.db.data.users)) {
-return conn.reply(m.chat, `ꕥ El usuario no se encuentra en mi base de datos.`, m)
+return conn.reply(m.chat, `❀ El usuario no se encuentra en mi base de datos.`, m)
 }
 let name = await (async () => global.db.data.users[who].name || (async () => { try { const n = await conn.getName(who); return typeof n === 'string' && n.trim() ? n : who.split('@')[0] } catch { return who.split('@')[0] } })())()
 const target = global.db.data.users[who]
@@ -22,7 +22,7 @@ return conn.reply(m.chat, `ꕥ Solo puedes robarle *${currency}* a un usuario si
 }
 const rob = Math.floor(Math.random() * 1001) + 2000
 if (target.coin < rob) {
-return conn.reply(m.chat, `ꕥ *${name}* no tiene suficientes *${currency}* fuera del banco como para que valga la pena intentar robar.`, m, { mentions: [who] })
+return conn.reply(m.chat, `❀ *${name}* no tiene suficientes *${currency}* fuera del banco como para que valga la pena intentar robar.`, m, { mentions: [who] })
 }
 user.coin += rob
 target.coin -= rob
