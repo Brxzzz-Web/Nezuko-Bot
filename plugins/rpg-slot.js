@@ -13,7 +13,7 @@ if (Date.now() - users.lastslot < 10000) {
 const restante = users.lastslot + 10000 - Date.now()
 return m.reply(`❀ Debes esperar *${formatTime(restante)}* para usar *${usedPrefix + command}* nuevamente.`)
 }
-if (apuesta < 100) return m.reply(`ꕥ El mínimo para apostar es de 100 *${currency}*.`)
+if (apuesta < 100) return m.reply(`❀ El mínimo para apostar es de 100 *${currency}*.`)
 if (users.coin < apuesta) return m.reply(`❀ Tus *${currency}* no son suficientes para apostar esa cantidad.`)
 const emojis = ['✾', '❃', '❁']
 const getRandomEmojis = () => {
