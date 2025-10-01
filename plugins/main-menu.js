@@ -220,32 +220,32 @@ let txt = `̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮  
 
 ╭┈ࠢ͜─ׄ֟፝͜─ׄ͜─ׄ͜╴𐔌 *PROFILES* 𐦯╶͜─ׄ͜─ׄ֟፝͜─ׄ͜─ׄ͜
 > ✿ Comandos de *Perfil* para ver y configurar tu perfil.
-✦ *#leaderboard • #lboard • #top* + <Paginá>
-> ⸙ Top de usuarios con más experiencia.
-✦ *#level • #lvl* + <@Mencion>
-> ⸙ Ver tu nivel y experiencia actual.
-✦ *#marry • #casarse* + <@Mencion>
-> ⸙ Casarte con alguien.
-✦ *#profile* + <@Mencion>
-> ⸙ Ver tu perfil.
-✦ *#setbirth* + [fecha]
-> ⸙ Establecer tu fecha de cumpleaños.
-✦ *#setdescription • #setdesc* + [Descripcion]
-> ⸙ Establecer tu descripcion.
-✦ *#setgenre* + Hombre | Mujer
-> ⸙ Establecer tu genero.
-✦ *#delgenre • #delgenero*
-> ⸙ Eliminar tu género.
-✦ *#delbirth* + [fecha]
-> ⸙ Borrar tu fecha de cumpleaños.
-✦ *#divorce*
-> ⸙ Divorciarte de tu pareja.
-✦ *#setfavourite • #setfav* + [Personaje]
-> ⸙ Establecer tu claim favorito.
-✦ *#deldescription • #deldesc*
-> ⸙ Eliminar tu descripción.
-✦ *#prem • #vip*
-> ⸙ Comprar membresía premium.
+❀ *#leaderboard • #lboard • #top* + <Paginá>
+> ❍ Top de usuarios con más experiencia.
+❀ *#level • #lvl* + <@Mencion>
+> ❍ Ver tu nivel y experiencia actual.
+❀ *#marry • #casarse* + <@Mencion>
+> ❍ Casarte con alguien.
+❀ *#profile* + <@Mencion>
+> ❍ Ver tu perfil.
+❀ *#setbirth* + [fecha]
+> ❍ Establecer tu fecha de cumpleaños.
+❀ *#setdescription • #setdesc* + [Descripcion]
+> ❍ Establecer tu descripcion.
+❀ *#setgenre* + Hombre | Mujer
+> ❍ Establecer tu genero.
+❀ *#delgenre • #delgenero*
+> ❍ Eliminar tu género.
+❀ *#delbirth* + [fecha]
+> ❍ Borrar tu fecha de cumpleaños.
+❀ *#divorce*
+> ❍ Divorciarte de tu pareja.
+❀ *#setfavourite • #setfav* + [Personaje]
+> ❍ Establecer tu claim favorito.
+❀ *#deldescription • #deldesc*
+> ❍ Eliminar tu descripción.
+❀ *#prem • #vip*
+> ❍ Comprar membresía premium.
 ╰ׅ͜─֟͜─͜─ٞ͜─͜─๊͜─͜─๋͜─⃔═̶፝֟͜═̶⃔─๋͜─͜─͜─๊͜─ٞ͜─͜─֟͜┈ࠢ͜╯ׅ
 
 ╭┈ࠢ͜─ׄ֟፝͜─ׄ͜─ׄ͜╴𐔌 *GROUPS* 𐦯╶͜─ׄ͜─ׄ֟፝͜─ׄ͜─ׄ͜
