@@ -50,7 +50,7 @@ ${description}
 ➨ Progreso » *${progreso}*
 ⸙ Premium » ${premium ? `✔️ (*${isLeft}*)` : '✖️'}
 
-ꕥ Harem » *${haremCount}*
+❀ Harem » *${haremCount}*
 ♤ Valor total » *${haremValue.toLocaleString()}*${favLine}
 ⛁ Coins totales » *${total.toLocaleString()} ${currency}*
 ❒ Comandos totales » *${user.commands || 0}*`
