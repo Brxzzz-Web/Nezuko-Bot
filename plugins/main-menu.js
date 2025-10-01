@@ -421,16 +421,16 @@ let txt = `̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮  
 ╰ׅ͜─֟͜─͜─ٞ͜─͜─๊͜─͜─๋͜─⃔═̶፝֟͜═̶⃔─๋͜─͜─͜─๊͜─ٞ͜─͜─֟͜┈ࠢ͜╯
 
 ╭┈ࠢ͜─ׄ֟፝͜─ׄ͜─ׄ͜╴𐔌 *NSFW* 𐦯╶͜─ׄ͜─ׄ֟፝͜─ׄ͜─ׄ͜
-✦ *#danbooru • #dbooru* + [Tags]
-> ⸙ Buscar imagenes en Danbooru
-✦ *#gelbooru • #gbooru* + [Tags]
-> ⸙ Buscar imagenes en Gelbooru
-✦ *#rule34 • #r34* + [Tags]
-> ⸙ Buscar imagenes en Rule34
-✦ *#xvideos •#xvideosdl* + [Link]
-> ⸙ Descargar un video Xvideos. 
-✦ *#xnxx •#xnxxdl* + [Link]
-> ⸙ Descargar un video Xnxx.
+❀ *#danbooru • #dbooru* + [Tags]
+> ❍ Buscar imagenes en Danbooru
+❀ *#gelbooru • #gbooru* + [Tags]
+> ❍ Buscar imagenes en Gelbooru
+❀ *#rule34 • #r34* + [Tags]
+> ❍ Buscar imagenes en Rule34
+❀ *#xvideos •#xvideosdl* + [Link]
+> ❍ Descargar un video Xvideos. 
+❀ *#xnxx •#xnxxdl* + [Link]
+> ❍ Descargar un video Xnxx.
 ╰ׅ͜─֟͜─͜─ٞ͜─͜─๊͜─͜─๋͜─⃔═̶፝֟͜═̶⃔─๋͜─͜─͜─๊͜─ٞ͜─͜─֟͜┈ࠢ͜╯ׅ`.trim()
 await conn.sendMessage(m.chat, { 
 text: txt,
