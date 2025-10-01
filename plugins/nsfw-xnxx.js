@@ -54,7 +54,7 @@ const session = conn.xnxx[m.sender]
 if (!session || !m.quoted || m.quoted.id !== session.key.id) return
 const n = parseInt(m.text.trim())
 if (isNaN(n) || n < 1 || n > session.result.length) {
-await m.reply('ꕥ Por favor, ingresa un número válido.')
+await m.reply('❀ Por favor, ingresa un número válido.')
 return
 }
 try {
