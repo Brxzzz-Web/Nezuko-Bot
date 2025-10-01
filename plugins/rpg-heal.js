@@ -3,7 +3,7 @@ if (!db.data.chats[m.chat].economy && m.isGroup) {
 return m.reply(`《✦》Los comandos de *Economía* están desactivados en este grupo.\n\nUn *administrador* puede activarlos con el comando:\n» *${usedPrefix}economy on*`)
 }
 let user = global.db.data.users[m.sender]
-if (!user) return conn.reply(m.chat, `ꕥ El usuario no se encuentra en la base de Datos.`, m)
+if (!user) return conn.reply(m.chat, `❀ El usuario no se encuentra en la base de Datos.`, m)
 if (user.health >= 100) return conn.reply(m.chat, `❀ Tu salud ya está al máximo.`, m)
 if (user.coin <= 0) return conn.reply(m.chat, `❀ No tienes ${currency} suficientes para curarte.`, m)
 const faltante = 100 - user.health
