@@ -12,7 +12,8 @@ let txt = `̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮  
 
 ╭┈ࠢ͜┅ࠦ͜͜╾݊͜─ؕ͜─ׄ͜─֬͜─֟͜─֫͜─ׄ͜─ؕ͜─݊͜┈ࠦ͜┅ࠡ͜͜┈࠭͜͜۰۰͜۰
 │❀ *Tipo* » ${(conn.user.jid == global.conn.user.jid ? 'Principal' : 'Sub-Bot')}
-│❍ *Usuarios* » ${totalreg.toLocaleString()}
+│❍ *Privado*
+│❀ *Usuarios* » ${totalreg.toLocaleString()}
 │❐ *Versión* » ${vs}
 │❖ *Plugins* » ${totalCommands}
 │✿ *Librería* » ${libreria}
