@@ -10,7 +10,7 @@ const ahora = Date.now()
 if (ahora < user.lastcrime) {
 const restante = user.lastcrime - ahora
 const wait = formatTimeMs(restante)
-return conn.reply(m.chat, `ꕥ Debes esperar *${wait}* para usar *${usedPrefix + command}* de nuevo.`, m)
+return conn.reply(m.chat, `❀ Debes esperar *${wait}* para usar *${usedPrefix + command}* de nuevo.`, m)
 }
 user.lastcrime = ahora + cooldown
 const evento = pickRandom(crimen)
@@ -23,7 +23,7 @@ cantidad = Math.floor(Math.random() * 1501) + 4000
 user.coin -= cantidad
 if (user.coin < 0) user.coin = 0
 }
-await conn.reply(m.chat, `❀ ${evento.mensaje} *¥${cantidad.toLocaleString()} ${currency}*`, m)
+await conn.reply(m.chat, `❀ ${evento.mensaje} *N${cantidad.toLocaleString()} ${currency}*`, m)
 }
 
 handler.tags = ['economy']
