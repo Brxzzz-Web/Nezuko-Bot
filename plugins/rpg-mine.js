@@ -10,12 +10,12 @@ user.exp = user.exp || 0
 user.health = user.health || 100
 user.pickaxedurability = user.pickaxedurability || 100
 if (user.health < 5)
-return conn.reply(m.chat, `ꕥ No tienes suficiente salud para volver a *minar*.\n> Usa *"${usedPrefix}heal"* para curarte.`, m)
+return conn.reply(m.chat, `❀ No tienes suficiente salud para volver a *minar*.\n> Usa *"${usedPrefix}heal"* para curarte.`, m)
 const gap = 10 * 60 * 1000
 const now = Date.now()
 if (now < user.lastmine) {
 const restante = user.lastmine - now
-return conn.reply(m.chat, `ꕥ Debes esperar *${formatTime(restante)}* para usar *${usedPrefix + command}* de nuevo.`, m)
+return conn.reply(m.chat, `❀ Debes esperar *${formatTime(restante)}* para usar *${usedPrefix + command}* de nuevo.`, m)
 }
 user.lastmine = now + gap
 const evento = pickRandom(eventos)
@@ -38,7 +38,7 @@ if (user.coin < 0) user.coin = 0
 if (user.exp < 0) user.exp = 0
 }
 if (user.health < 0) user.health = 0
-const mensaje = `❀ ${evento.mensaje} *¥${monedas.toLocaleString()} ${currency}*`
+const mensaje = `❀ ${evento.mensaje} *N${monedas.toLocaleString()} ${currency}*`
 await conn.reply(m.chat, mensaje, m)
 }
 
