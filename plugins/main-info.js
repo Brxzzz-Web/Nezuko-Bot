@@ -82,7 +82,7 @@ count++
 break
 }}}
 await m.react(count === 0 ? '✖️' : '✔️')
-conn.reply(m.chat, count === 0 ? 'ꕥ No se encontraron archivos relacionados con tu ID.' : `ꕥ Se eliminaron ${count} archivos de sesión.`, m)
+conn.reply(m.chat, count === 0 ? '❀ No se encontraron archivos relacionados con tu ID.' : `❀ Se eliminaron ${count} archivos de sesión.`, m)
 break
 }
 case 'script': case 'sc': {
