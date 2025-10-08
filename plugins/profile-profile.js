@@ -50,8 +50,8 @@ ${description}
 ➨ Progreso » *${progreso}*
 ⸙ Premium » ${premium ? `✔️ (*${isLeft}*)` : '✖️'}
 
-ꕥ Harem » *${haremCount}*
-♤ Valor total » *${haremValue.toLocaleString()}*${favLine}
+❀ Harem » *${haremCount}*
+❍ Valor total » *${haremValue.toLocaleString()}*${favLine}
 ⛁ Coins totales » *${total.toLocaleString()} ${currency}*
 ❒ Comandos totales » *${user.commands || 0}*`
 await conn.sendMessage(m.chat, { image: { url: pp }, caption: text, mentions: [userId] }, { quoted: fkontak })
