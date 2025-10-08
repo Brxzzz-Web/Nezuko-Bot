@@ -2,8 +2,8 @@ import moment from 'moment-timezone'
 
 let handler = async (m, { conn, args, text, usedPrefix, command }) => {
 if (!text) return conn.reply(m.chat, `❀ Por favor, ingrese el número al que quiere enviar una invitación al grupo.`, m)
-if (text.includes('+')) return conn.reply(m.chat, `ꕥ Ingrese el número todo junto sin el *+*`, m)
-if (isNaN(text)) return conn.reply(m.chat, `ꕥ Ingrese sólo números sin su código de país y sin espacios.`, m)
+if (text.includes('+')) return conn.reply(m.chat, `❀ Ingrese el número todo junto sin el *+*`, m)
+if (isNaN(text)) return conn.reply(m.chat, `❀ Ingrese sólo números sin su código de país y sin espacios.`, m)
 let group = m.chat
 let link = 'https://chat.whatsapp.com/' + await conn.groupInviteCode(group)
 let tag = m.sender ? '@' + m.sender.split('@')[0] : 'Usuario'
