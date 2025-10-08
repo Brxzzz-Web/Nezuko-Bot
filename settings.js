@@ -12,31 +12,31 @@ global.botNumber = "" //Ejemplo: 573218138672
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-"573196588149",
-"5492916450307",
+"51971285104",
+"51939260696",
 "5216671548329"
 ]
 
-global.suittag = ["573196588149"] 
+global.suittag = ["51971285104"] 
 global.prems = []
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.libreria = "Baileys Multi Device"
 global.vs = "^1.8.2|Latest"
-global.nameqr = "YukiBot-MD"
+global.nameqr = "NezukoBot-MD"
 global.sessions = "Sessions/Principal"
 global.jadi = "Sessions/SubBot"
 global.yukiJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.botname = "ᥡᥙkі sᥙ᥆ᥙ"
-global.textbot = "ᥡᥙkі, mᥲძᥱ ᥕі𝗍һ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ"
-global.dev = "© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜"
-global.author = "© mᥲძᥱ ᥕі𝗍һ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜"
-global.etiqueta = "ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜"
-global.currency = "¥enes"
+global.botname = "⏤͟͟͞͞ɴᴇᴢᴜᴋᴏ-ʙᴏᴛ⏤͟͟͞͞❀"
+global.textbot = "𝖭𝖾𝗓𝗎𝗄𝗈, 𝖬𝖺𝖽𝖾 𝖶𝗂𝗍𝗁 ❤ 𝖻𝗒 𝗡𝗲𝘇𝘂𝗸𝗼 𝗢𝗳𝗶𝗰𝗶𝗮𝗹"
+global.dev = "© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɴᴇᴢᴜᴋᴏ ᴏғɪᴄɪᴀʟ"
+global.author = "© ᴍᴀᴅᴇ ᴡɪᴛʜ ʙʏ ɴᴇᴢᴜᴋᴏ ᴏғɪᴄɪᴀʟ"
+global.etiqueta = "ɴᴇᴢᴜᴋᴏ ᴏғɪᴄɪᴀʟ"
+global.currency = "Nezukcoins"
 global.banner = "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742678744381.jpeg"
 global.icono = "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742678797993.jpeg"
 global.catalogo = fs.readFileSync('./lib/catalogo.jpg')
