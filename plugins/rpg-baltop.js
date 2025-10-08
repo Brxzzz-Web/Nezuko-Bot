@@ -15,7 +15,7 @@ const { jid, coin, bank } = slice[i]
 const total = (coin || 0) + (bank || 0)
 let name = await (async () => global.db.data.users[jid].name.trim() || (await conn.getName(jid).then(n => typeof n === 'string' && n.trim() ? n : jid.split('@')[0]).catch(() => jid.split('@')[0])))()
 text += `✰ ${startIndex + i + 1} » *${name}:*\n`
-text += `\t\t Total→ *¥${total.toLocaleString()} ${currency}*\n`
+text += `\t\t Total→ *N${total.toLocaleString()} ${currency}*\n`
 }
 text += `\n> • Página *${page}* de *${totalPages}*`
 await conn.reply(m.chat, text.trim(), m, { mentions: conn.parseMention(text) })
