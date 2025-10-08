@@ -38,7 +38,7 @@ global.author = "© ᴍᴀᴅᴇ ᴡɪᴛʜ ʙʏ ɴᴇᴢᴜᴋᴏ ᴏғɪᴄɪ�
 global.etiqueta = "𝗡𝗲𝘇𝘂𝗸𝗼 𝗢𝗳𝗶𝗰𝗶𝗮𝗹"
 global.currency = "Nezukcoins"
 global.banner = "https://files.catbox.moe/47imnv.jpg"
-global.icono = "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742678797993.jpeg"
+global.icono = "https://files.catbox.moe/rv0v6d.jpg"
 global.catalogo = fs.readFileSync('./lib/catalogo.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
