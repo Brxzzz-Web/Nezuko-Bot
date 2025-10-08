@@ -7,8 +7,8 @@ const { generateWAMessageFromContent, prepareWAMessageMedia, proto } = pkg
 
 var handler = m => m
 handler.all = async function (m) { 
-global.canalIdM = ["120363401404146384@newsletter", "120363401404146384@newsletter"]
-global.canalNombreM = ["ᥫ᭡ 𝒀𝒖𝒌𝒊 𝑾𝒂𝑩𝒐𝒕 - 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 ᯓᡣ𐭩", "ᥫ᭡ 𝒀𝒖𝒌𝒊 𝑾𝒂𝑩𝒐𝒕 - 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 ᯓᡣ𐭩"]
+global.canalIdM = ["120363401983007420@newsletter", "120363401983007420@newsletter"]
+global.canalNombreM = ["=͟͟͞𝗡𝗲𝘇𝘂𝗸𝗼 - 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 𝗖𝗵𝗮𝗻𝗻𝗲𝗹⏤͟͟͞͞★", "=͟͟͞𝗡𝗲𝘇𝘂𝗸𝗼 - 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 𝗖𝗵𝗮𝗻𝗻𝗲𝗹⏤͟͟͞͞★"]
 global.channelRD = await getRandomChannel()
 
 global.d = new Date(new Date + 3600000)
@@ -19,15 +19,15 @@ global.mes = d.toLocaleDateString('es', {month: 'long'})
 global.año = d.toLocaleDateString('es', {year: 'numeric'})
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true})
 
-var canal = 'https://whatsapp.com/channel/0029VbAfPu9BqbrEMFWXKE0d'  
-var comunidad = 'https://chat.whatsapp.com/I0dMp2fEle7L6RaWBmwlAa'
-var git = 'https://github.com/The-King-Destroy'
-var github = 'https://github.com/The-King-Destroy/Yuki_Suou-Bot' 
-var correo = 'thekingdestroy507@gmail.com'
+var canal = 'https://whatsapp.com/channel/0029Vb5l5w1CHDyjovjN8s2V'  
+var comunidad = 'https://chat.whatsapp.com/KdpLokuBZuKHx0DvNzuAes'
+var git = 'https://github.com/'
+var github = 'https://github.com/' 
+var correo = 'jxxlznexe@gmail.com'
 global.redes = [canal, comunidad, git, github, correo].getRandom()
 
 global.nombre = m.pushName || 'Anónimo'
-global.packsticker = `°.⎯⃘̶⎯̸⎯ܴ⎯̶᳞͇ࠝ⎯⃘̶⎯̸⎯ܴ⎯̶᳞͇ࠝ⎯⃘̶⎯̸.°\nᰔᩚ Usuario: ${nombre}\n❀ Bot: ${botname}\n✦ Fecha: ${fecha}\nⴵ Hora: ${moment.tz('America/Caracas').format('HH:mm:ss')}`
+global.packsticker = `°.⎯⃘̶⎯̸⎯ܴ⎯̶᳞͇ࠝ⎯⃘̶⎯̸⎯ܴ⎯̶᳞͇ࠝ⎯⃘̶⎯̸.°\nᰔᩚ Usuario: ${nombre}\n❀ Bot: ${botname}\n❀ Fecha: ${fecha}\nⴵ Hora: ${moment.tz('America/Caracas').format('HH:mm:ss')}`
 global.packsticker2 = `\n°.⎯⃘̶⎯̸⎯ܴ⎯̶᳞͇ࠝ⎯⃘̶⎯̸⎯ܴ⎯̶᳞͇ࠝ⎯⃘̶⎯̸.°\n\n${dev}`
   
 global.fkontak = { key: { participants:"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
