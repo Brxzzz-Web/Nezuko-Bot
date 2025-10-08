@@ -11,10 +11,10 @@ return m.reply(`❀ Por favor, ingresa la cantidad que deseas apostar.`)
 const apuesta = parseInt(args[0])
 if (Date.now() - users.lastslot < 10000) {
 const restante = users.lastslot + 10000 - Date.now()
-return m.reply(`ꕥ Debes esperar *${formatTime(restante)}* para usar *${usedPrefix + command}* nuevamente.`)
+return m.reply(`❀ Debes esperar *${formatTime(restante)}* para usar *${usedPrefix + command}* nuevamente.`)
 }
-if (apuesta < 100) return m.reply(`ꕥ El mínimo para apostar es de 100 *${currency}*.`)
-if (users.coin < apuesta) return m.reply(`ꕥ Tus *${currency}* no son suficientes para apostar esa cantidad.`)
+if (apuesta < 100) return m.reply(`❀ El mínimo para apostar es de 100 *${currency}*.`)
+if (users.coin < apuesta) return m.reply(`❀ Tus *${currency}* no son suficientes para apostar esa cantidad.`)
 const emojis = ['✾', '❃', '❁']
 const getRandomEmojis = () => {
 const x = Array.from({ length: 3 }, () => emojis[Math.floor(Math.random() * emojis.length)])
