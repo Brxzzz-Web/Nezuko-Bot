@@ -429,6 +429,8 @@ let txt = `̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮  
 > ❍ Descargar un video Xvideos. 
 ❀ *#xnxx •#xnxxdl* + [Link]
 > ❍ Descargar un video Xnxx.
+❀ *#Cum
+> ❍ Venirse en alguien
 ╰ׅ͜─֟͜─͜─ٞ͜─͜─๊͜─͜─๋͜─⃔═̶፝֟͜═̶⃔─๋͜─͜─͜─๊͜─ٞ͜─͜─֟͜┈ࠢ͜╯ׅ`.trim()
 await conn.sendMessage(m.chat, { 
 text: txt,
